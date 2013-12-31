@@ -37,8 +37,9 @@ class MainPage(webapp2.RequestHandler):
                 self.response.out.write(
                     '<b>%s</b> wrote:' % greeting.author)
             else:
-                self.response.out.write('An anonymous person wrote:')
-            self.response.out.write('<div><img src="img?img_id=%s"></img>' %
+                self.response.out.write('An anonymous person wrote: '
+                                        '<br>')
+            self.response.out.write('<br><div align="center"><img src="img?img_id=%s"></img>' %
                                     greeting.key())
             self.response.out.write('<blockquote>%s</blockquote></div>' %
                                     cgi.escape(greeting.content))
@@ -77,7 +78,7 @@ class Guestbook(webapp2.RequestHandler):
             greeting.author = users.get_current_user().nickname()
 
         greeting.content = self.request.get('content')
-        avatar = images.resize(self.request.get('img'), 32, 32)
+        avatar = images.resize(self.request.get('img'), 800, 1280)
         greeting.avatar = db.Blob(avatar)
         greeting.put()
         self.redirect('/?' + urllib.urlencode(
