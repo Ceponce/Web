@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25d7cbb0-8931-4d7d-a84e-3f2686cce0db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog.py" afterPath="$PROJECT_DIR$/blog.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="hw3.iws" />
@@ -34,7 +31,7 @@
       <file leaf-file-name="blog.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/blog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="199" column="13" selection-start="5127" selection-end="5127" vertical-scroll-proportion="0.45805368" vertical-offset="3110" max-vertical-offset="3706">
+            <state line="199" column="13" selection-start="5127" selection-end="5127" vertical-scroll-proportion="0.45959595" vertical-offset="3110" max-vertical-offset="3706">
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -346,18 +343,24 @@
       <created>1388417935401</created>
       <updated>1388417935401</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update: removing test code and continuing with dev">
+      <created>1388467339125</created>
+      <updated>1388467339125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2963801" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29705215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19153675" sideWeight="0.7036199" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19153675" sideWeight="0.70294785" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -379,6 +382,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Update: removing test code and continuing with dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: removing test code and continuing with dev" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -397,7 +402,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="199" column="13" selection-start="5127" selection-end="5127" vertical-scroll-proportion="0.45805368" vertical-offset="3110" max-vertical-offset="3706">
+        <state line="199" column="13" selection-start="5127" selection-end="5127" vertical-scroll-proportion="0.45959595" vertical-offset="3110" max-vertical-offset="3706">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
