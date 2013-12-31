@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+ <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
+<html>
+<head>
+    <title>/ascii/</title>
+</head>
+
+<body>
+<h1>/ascii/</h1>
+
+<form method="post">
+    <label>
+        <div>subject</div>
+        <input type="text" name="subject" value={{subject}}>
+    </label>
+    <br>
+    <label>
+        <div>content</div>
+        <textarea name="content">{{content}}</textarea>
+    </label>
+    <br>
+
+    <div class="error">{{error}}</div>
+    <br>
+    <input type="submit">
+</form>
+</body>
+</html>

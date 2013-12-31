@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+        <link type="text/css" rel="stylesheet" href="/stylesheets/main.css" />
+
+<html>
+    <head>
+        <title>/ascii/</title>
+    </head>
+
+
+    <body>
+    <h1>/ascii/</h1>
+
+    <hr>
+
+    {% for blog in blogs %}
+        <div class="art">
+            <div class="post-title">
+                <a href="/{{blog.key().id()}}">{{blog.subject}}</a>
+            </div>
+            <hr>
+            <pre class="blog-body">{{blog.content}}</pre>
+        </div>
+    {% endfor %}
+
+    </body>
+</html>
