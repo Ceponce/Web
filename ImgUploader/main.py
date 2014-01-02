@@ -23,7 +23,7 @@ def guestbook_key(guestbook_name=None):
 
 class MainPage(webapp2.RequestHandler):
     def get(self):
-        self.response.out.write('<html><body>')
+        self.response.out.write('<html><title>ImgUploader</title><body>')
         guestbook_name = self.request.get('guestbook_name')
 
         greetings = db.GqlQuery('SELECT * '
@@ -33,9 +33,9 @@ class MainPage(webapp2.RequestHandler):
                                 guestbook_key(guestbook_name))
 
         for greeting in greetings:
-            if greeting.author:
+            if guestbook_name:
                 self.response.out.write(
-                    '<b>%s</b> wrote:' % greeting.author)
+                    '<b>%s</b> wrote:' % guestbook_name)
             else:
                 self.response.out.write('An anonymous person wrote: '
                                         '<br>')
@@ -43,11 +43,11 @@ class MainPage(webapp2.RequestHandler):
                                     greeting.key())
             self.response.out.write('<blockquote>%s</blockquote></div>' %
                                     cgi.escape(greeting.content))
-
+        #I could make this an if statement restrict upload/sign-in permissions
         self.response.out.write("""
               <form action="/sign?%s" enctype="multipart/form-data" method="post">
+                <div><label>Upload:</label></div>
                 <div><textarea name="content" rows="3" cols="60"></textarea></div>
-                <div><label>Avatar:</label></div>
                 <div><input type="file" name="img"/></div>
                 <div><input type="submit" value="Sign Guestbook"></div>
               </form>
