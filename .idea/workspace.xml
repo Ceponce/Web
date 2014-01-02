@@ -1,178 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="55b2e183-e7f1-47bf-8c7a-0662514b6a73" name="Default" comment="testing if changes were applied to webuilder">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/ico/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/carousel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/ico/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/grid.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/jumbotron-narrow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/jumbotron.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/justified-nav.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/navbar-fixed.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/navbar-static.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/navbar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/non-responsive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/offcanvas.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/sign-in.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/starter-template.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/sticky-footer-navbar.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/sticky-footer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/screenshots/theme.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/.jshintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/DOCS-LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/Gruntfile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/LICENSE-MIT" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/ads.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/alerts.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/badges.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/bootstrap.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/breadcrumbs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/button-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/buttons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/carousel/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/carousel.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/close.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/code.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/component-animations.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/components.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/customize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/customizer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_layouts/default.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/css/docs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/dropdowns.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/filesaver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/forms.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/getting-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/glyphicons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/grid/grid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/grid.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/holder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_layouts/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/ie8-responsive-file-warning.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/carousel/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/grid/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/jumbotron/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/jumbotron-narrow/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/justified-nav/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/navbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/navbar-fixed-top/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/navbar-static-top/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/non-responsive/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/offcanvas/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/signin/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/starter-template/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/sticky-footer/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/sticky-footer-navbar/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/theme/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/input-groups.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/javascript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/vendor/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/jszip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/jumbotron-narrow/jumbotron-narrow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/jumbotron/jumbotron.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/jumbotron.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/justified-nav/justified-nav.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/labels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/less.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/list-group.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/media.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/modals.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-about.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-components.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-css.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-customize.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-getting-started.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-javascript.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/nav-main.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/navbar-fixed-top/navbar-fixed-top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/navbar-static-top/navbar-static-top.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/navbar/navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/navbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/navs.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/non-responsive/non-responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/normalize.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/offcanvas/offcanvas.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/offcanvas/offcanvas.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/old-bs-docs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/pager.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/pagination.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/panels.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/phantom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/popovers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/print.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/progress-bars.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/css/pygments-manni.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/vendor/qunit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/vendor/qunit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/raw-files.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/responsive-utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/scaffolding.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/signin/signin.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/_includes/social-buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/starter-template/starter-template.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/sticky-footer/sticky-footer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/tables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/examples/theme/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/theme.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/thumbnails.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/tooltip.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/js/tests/unit/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/type.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/docs-assets/js/uglify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/utilities.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloGreatWorld/less/wells.less" />
+    <list default="true" id="55b2e183-e7f1-47bf-8c7a-0662514b6a73" name="Default" comment="">
       <change type="DELETED" beforePath="C:\Users\Juan\Desktop\Web\webbuilder\stylesheets\bootstrap-theme.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Juan\Desktop\Web\webbuilder\stylesheets\bootstrap-theme.min.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Juan\Desktop\Web\webbuilder\stylesheets\bootstrap.css" afterPath="" />
@@ -180,10 +9,8 @@
       <change type="DELETED" beforePath="C:\Users\Juan\Desktop\Web\webbuilder\stylesheets\main.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webbuilder/app.yaml" afterPath="$PROJECT_DIR$/webbuilder/app.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webbuilder/templates/hello.html" afterPath="$PROJECT_DIR$/webbuilder/templates/hello.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImgUploader/main.py" afterPath="$PROJECT_DIR$/ImgUploader/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webbuilder/.idea/vcs.xml" afterPath="$PROJECT_DIR$/webbuilder/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImgUploader/.idea/workspace.xml" afterPath="$PROJECT_DIR$/ImgUploader/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/webbuilder/.idea/workspace.xml" afterPath="$PROJECT_DIR$/webbuilder/.idea/workspace.xml" />
     </list>
     <ignored path="Web.iws" />
@@ -507,12 +334,13 @@
     <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26057908" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26057908" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -522,7 +350,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
